@@ -31,5 +31,4 @@
 *.exp
 *.
 *.app
-multiply_cpu.c
 hello.c

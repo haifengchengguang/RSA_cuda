@@ -1,8 +1,5 @@
 # cuda模幂运算
 
-multiply.cu 是我自己写的
-
-其他的是从网上找的都比cpu慢
 
 GPU_RSA.cu CPU_RSA.cu
 https://github.com/gitcollect/RSA_Research
